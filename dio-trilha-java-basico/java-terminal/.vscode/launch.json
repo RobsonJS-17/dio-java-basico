@@ -7,6 +7,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ContaBanco",
+      "request": "launch",
+      "mainClass": "ContaBanco",
+      "projectName": "java-terminal_e9f7ad38"
+    },
+    {
+      "type": "java",
       "name": "MinhaClasse",
       "request": "launch",
       "mainClass": "MinhaClasse",
